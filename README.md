@@ -1,5 +1,5 @@
 # Create T3 App
 
- - [ ] Make it deploy 
- - [ ] Scaffold with basic UI using mock data
- - [ ] Setup Database (postgreSQL)
+ - [x] Make it deploy 
+ - [x] Scaffold with basic UI using mock data
+ - [x] Setup Database (postgreSQL)
