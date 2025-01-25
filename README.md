@@ -6,4 +6,5 @@
  - [x] Attach Database to UI
  - [x] Add Authentication (w/ Clerk)
  - [] Add Image Upload
+ - [] "taint" (Server Only)
  - [] Error Management (w/ Sentry)
