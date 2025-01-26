@@ -6,7 +6,7 @@ export const dynamic = "force-dynamic"
 export default async function HomePage() {
 
   const images = await db.query.images.findMany({
-    orderBy: (module, {desc}) => desc(module.id)
+    orderBy: (module, {desc}) => desc(module.name)
   });
 
   return (
